@@ -16,7 +16,8 @@ You have a page with some place holder content in it. Also, there's the followin
 <p>Would you like to subscribe to our email newsletter?</p>
 </div>
 <div class="modal-buttons"><button>Ok</button> <button>Cancel</button></div>
-</div> ```
+</div>
+```
 
 Bonus Challenge
 
