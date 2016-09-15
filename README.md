@@ -10,13 +10,13 @@ Using fixed positioning and absolute positioning, you can create a modal dialog 
 
 You have a page with some place holder content in it. Also, there's the following markup for a pop-up modal dialog:
 
-`<div class="modal-dialog">
+``` <div class="modal-dialog">
 <div class="modal-header"><label class="modal-title">Hello</label></div>
 <div class="modal-content">
 <p>Would you like to subscribe to our email newsletter?</p>
 </div>
 <div class="modal-buttons"><button>Ok</button> <button>Cancel</button></div>
-</div>`
+</div> ```
 
 Bonus Challenge
 
